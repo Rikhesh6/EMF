@@ -1,9 +1,9 @@
-# EMF
-Comparative Study of Electromagnetic Fields, Transmission Lines, and Waveguides Using RADAR Systems 
+<h1 align="center">Comparative Study of Electromagnetic Fields, Transmission Lines, and Waveguides Using RADAR Systems 
+</h1>
 
 
 
-1. Introduction
+# 1. Introduction
 Radar (Radio Detection and Ranging) is a widely used technology in defence, aviation, weather forecasting, space science, and maritime navigation. Radar systems transmit electromagnetic waves, receive echoes from targets, and process them to determine distance, velocity, and direction. Three fundamental concepts enable radar operation: Electromagnetic Fields (EMF), Transmission Lines (TL), and Waveguides.
 This report compares these three technologies using Radar systems as the real-life practical application. The comparison is presented across principles, functions, design, performance, advantages, and limitations.
 
@@ -15,7 +15,7 @@ Transmission lines are special conductors designed to carry electrical signals e
  Waveguides (WG)
 Waveguides are hollow metal tubes (usually rectangular or circular) used to carry high-frequency and high-power microwave signals with extremely low loss. Unlike transmission lines, waveguides are more efficient at frequencies above 3 GHz, where radar typically operates. They can handle high peak power without overheating and minimize signal attenuation, making them essential for connecting the radar’s high-power transmitter to the antenna. They are also used to carry faint returning echoes from the antenna to the receiver with minimal distortion. Although rigid and more expensive, waveguides are critical for the reliable performance of modern radar systems.
 
-2. Overview of Radar Systems
+# 2. Overview of Radar Systems
 
 
 
@@ -42,7 +42,7 @@ Receiver processes the returned signal.
 
 
 
-3. Electromagnetic Fields in Radar Systems
+# 3. Electromagnetic Fields in Radar Systems
 Electromagnetic fields form the core of radar operation.
 3.1 Role of EMF in Radar
 Radar transmits EM waves (1–40 GHz microwaves).
@@ -60,7 +60,7 @@ Determines detection range
 Affects accuracy and resolution
 Enables Doppler measurement (velocity detection)
 
-4. Transmission Lines in Radar Systems
+# 4. Transmission Lines in Radar Systems
 Transmission lines are used to transfer RF signals within radar electronics.
 4.1 Role of Transmission Lines
 Carry low and medium power RF signals between modules
@@ -82,7 +82,7 @@ Suitable for moderate frequencies
 High loss at microwave frequencies
 Limited power handling compared to waveguides
 
-5. Waveguides in Radar Systems
+# 5. Waveguides in Radar Systems
 Waveguides are hollow metal tubes used to carry high-power microwave energy.
 5.1 Role of Waveguides
 
@@ -106,7 +106,7 @@ Higher cost
 Difficult to install compared to coaxial cables
 
 
-6. Comparative Analysis: EMF vs Transmission Lines vs Waveguides
+# 6. Comparative Analysis: EMF vs Transmission Lines vs Waveguides
 Radar integrates all three components, but their roles differ significantly.
 6.1 Functional Comparison
 EMF: Enables wireless propagation and target detection.
@@ -126,7 +126,7 @@ TL: Resistive and dielectric losses.
 Waveguides: Very low loss, best for radar.
 
 
-7. How EMF, TL, and Waveguides Work Together in Radar
+# 7. How EMF, TL, and Waveguides Work Together in Radar
 Step-by-Step Flow
 Transmitter produces microwave pulses.
 Low-power signals travel through transmission lines.
@@ -140,7 +140,7 @@ Efficient transmission
 High detection accuracy
 Reliable long-distance operation
 
-8. Case Study: Weather Radar System
+# 8. Case Study: Weather Radar System
 Weather radars operate in S-band (2–4 GHz) or C-band (4–8 GHz).
 Use of EMF
 Detects rainfall, storms, and wind patterns using return echo intensity.
@@ -154,7 +154,7 @@ Accurate cloud and precipitation detection
 
 
 
-9. Advantages and Disadvantages Comparison
+# 9. Advantages and Disadvantages Comparison
 Electromagnetic Field
  Enables wireless detection
  Covers long distances
@@ -173,6 +173,6 @@ Waveguides
  Expensive and rigid
 
 
-10. Conclusion
+# 10. Conclusion
 Radar systems serve as an excellent example where Electromagnetic Fields, Transmission Lines, and Waveguides are all used together to perform a unified function. EM waves handle long-distance propagation, transmission lines handle internal routing, and waveguides carry high-power signals with minimal loss. Their combined operation enables modern radar systems to achieve high accuracy, long range, and reliable performance.
 This comparison highlights the complementary roles of these technologies within a single practical application.
